@@ -1,7 +1,6 @@
 # kubsu-4mm-2024-map
-hello world
 
-Автор: саня
+#git
 
 ```bash
 $ git clone
@@ -11,3 +10,15 @@ $ git push
 ```
 
 ---
+
+# NodeJS
+```bash
+$ npm install
+$ npm run cowsay
+```
+
+# TypeScript 
+```bash
+$ npm run lint
+$ npm run start
+```
